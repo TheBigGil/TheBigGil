@@ -1,16 +1,43 @@
-## Hi there 👋
+## Olá! 👋 Eu sou Gilberto Neto
 
-<!--
-**TheBigGil/TheBigGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Sobre Mim**
+<div>
+  <ul>
+    <li>Sou apaixonado por <b>Web Design</b> </li>
+    <li>Atualmente, trabalho como <b>Gerente de Compras</b> e estou em busca de uma mudança de carreira</li>
+    <li>No momento, estou focado em <b>Reacts</b>, <b>Node</b> e <b>Typescript</b></li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+💻 **Habilidades**
+<div>
+  <ul>
+    <li>Linguagens: 
+      <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="Rafa-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </li>
+    <li>Ferramentas:
+      <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+      <img align="center" alt="Rafa-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    </li> 
+    <li>Frameworks:
+      <img align="center" alt="Rafa-Ts" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+      <img align="center" alt="Rafa-React" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </li>  
+  </ul>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+📫 **Como me Contatar**
+<div> 
+  <a href = "mailto:gilneto2904@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gilberto-neto-383676239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+**Nós enfrentamos o infortúnio porque assim nos tornamos mais fortes. 🙏**
