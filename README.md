@@ -4,7 +4,7 @@
 <div>
   <ul>
     <li>Sou apaixonado por <b>Web Design</b> e <b>Data Analysis</b></li
-    <li>No momento, estou focado em <b>Reacts</b>, <b>Python</b> e <b>Django</b></li>
+    <li>No momento, estou focado em <b>React</b>, <b>Python</b> e <b>Django</b></li>
   </ul>
 </div>
 
