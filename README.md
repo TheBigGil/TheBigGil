@@ -12,8 +12,8 @@
 <div>
   <ul>
     <li>Linguagens: 
-      <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Rafa-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </li>
     <li>Ferramentas:
       <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
