@@ -3,9 +3,8 @@
 🎓 **Sobre Mim**
 <div>
   <ul>
-    <li>Sou apaixonado por <b>Web Design</b> </li>
-    <li>Atualmente, trabalho como <b>Gerente de Compras</b> e estou em busca de uma mudança de carreira</li>
-    <li>No momento, estou focado em <b>Reacts</b>, <b>Node</b> e <b>Typescript</b></li>
+    <li>Sou apaixonado por <b>Web Design</b> e <b>Data Analysis</b></li
+    <li>No momento, estou focado em <b>Reacts</b>, <b>Python</b> e <b>Django</b></li>
   </ul>
 </div>
 
@@ -14,7 +13,6 @@
   <ul>
     <li>Linguagens: 
       <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="Rafa-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </li>
     <li>Ferramentas:
