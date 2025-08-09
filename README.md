@@ -34,4 +34,4 @@
 
 ---
 
-**Nós enfrentamos o infortúnio porque assim nos tornamos mais fortes. 🙏**
+**"Os justos brilharão como o sol, e a luz do senhor brilhará sobre eles para sempre." ☀️**
